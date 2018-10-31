@@ -1,4 +1,4 @@
-module github.com/go-fed/httpsig
+module github.com/yukimochi/httpsig
 
 require (
 	golang.org/x/crypto v0.0.0-20180527072434-ab813273cd59
